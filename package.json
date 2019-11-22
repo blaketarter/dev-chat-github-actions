@@ -1,7 +1,7 @@
 {
   "name": "crema-app-web",
   "version": "0.1.0",
-  "homepage": "https://blaketarter.github.io/github-actions-demo",
+  "homepage": "https://blaketarter.github.io/dev-chat-github-actions",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
